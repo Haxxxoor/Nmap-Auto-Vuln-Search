@@ -1,0 +1,4 @@
+scapy==2.5.0
+sqlite3==3.36.0
+subprocess==1.0.0
+logging==0.5.1.2
